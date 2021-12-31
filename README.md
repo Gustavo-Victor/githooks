@@ -5,9 +5,9 @@ Project to train hooks in react.js (useState and useEffect)
 ## Features
 
 ### Languages and Libraries
-- [HTML]
-- [CSS]
-- [JS]
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](https://pt-br.reactjs.org/)
     - [Create React App](https://create-react-app.dev/)
     - [React Icons](https://react-icons.github.io/react-icons/)
